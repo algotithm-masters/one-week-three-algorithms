@@ -20,6 +20,7 @@ ex)<br>
 ## 플랫폼 링크 모음
 [백준](https://www.acmicpc.net)<br>
 [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc)<br>
+[소프티어](https://softeer.ai/)
 [리트코드](https://leetcode.com/)<br>
 [코드포스](https://codeforces.com/)<br>
 
@@ -40,5 +41,37 @@ ex)<br>
 |--------|:-------:|:-------:|:-------:|:-------:|
 | 고예성 |         |         |         |         |
 | 안성욱 |         |         |         |         |
+
+## 참고하면 좋은 책, 사이트
+### 바킹독 실전 알고리즘
+무료 강의이고 개념/문제풀이 설명이 아주 좋습니다.<br>
+C++코드로 문제를 풀지만, 다른 언어도 상관없습니다.(전 자바로 풀면서 공부했습니다)<br>
+⭐️⭐️⭐️<br>
+[링크](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+### 프로그래머스 코딩테스트 문제풀이 전략(자바)
+자바로 공부하시는 분들에게 추천합니다. 풀이가 깔끔합니다.<br>
+물론 메소드 분리를 하는 등, 코딩테스트에 어울리지 않다는 평도 있지만<br>
+컴퓨팅적 사고를 키우는데 도움이 된다고 생각합니다.<br>
+[링크](https://product.kyobobook.co.kr/detail/S000200928002)
+### 이것이 취업을 위한 코딩 테스트다 with 파이썬
+말이 필요없는 베스트셀러입니다.<br>
+[링크](https://product.kyobobook.co.kr/detail/S000001810273)
+### Introduction To Algorithms
+학부 때 읽었는데, 이론을 공부하고 싶다면 추천합니다. 대신 수학적 사고력이 좀 있어야 잘 읽힘<br>
+[링크](https://product.kyobobook.co.kr/detail/S000213683944)
+### 논리적 사고를 기르는 알고리즘 수업
+입사했을 때 선물 받은 책입니다.<br>
+아직 읽고 있긴하지만, 저처럼 알고리즘적 사고가 어려우신 분들에게 추천합니다.<br>
+[링크](https://product.kyobobook.co.kr/detail/S000211970134)
+### 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략
+보다가 어려워서 접었습니다. 대회용인데, 알고리즘으로 이름 날리고 싶은 꿈이 있다면 읽으슈<br>
+[링크](https://product.kyobobook.co.kr/detail/S000001032946)
+### 카카오 신입 공채 문제해설
+문제 퀄리티가 좋기로 유명한 카카오 신입공채 해설링크입니다.<br>
+[링크](https://tech.kakao.com/tag/coding%20test)
+
+
+
+
 
 
