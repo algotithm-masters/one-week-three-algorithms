@@ -20,7 +20,7 @@ ex)<br>
 ## 플랫폼 링크 모음
 [백준](https://www.acmicpc.net)<br>
 [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc)<br>
-[소프티어](https://softeer.ai/)
+[소프티어](https://softeer.ai/)<br>
 [리트코드](https://leetcode.com/)<br>
 [코드포스](https://codeforces.com/)<br>
 
