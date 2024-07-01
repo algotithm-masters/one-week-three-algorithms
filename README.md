@@ -7,9 +7,9 @@
 다 푼 문제의 코드는 본인 이름의 폴더, 다시 그 안에서 월별로 분류해서 넣어주세요.<br>
 <br>
 ex)<br>
-고예성 > 7월 > BOJ13144.py, BOJ16987.kt, BOJ1956.java
-안성욱 > 9월 > Prgrms1.py, Prgrms2.cpp, Prgrms3.go
-
+고예성 > 7월 > BOJ13144.py, BOJ16987.kt, BOJ1956.java<br>
+안성욱 > 9월 > Prgrms1.py, Prgrms2.cpp, Prgrms3.go<br>
+<br>
 일주일 동안 푼 문제 중 어려웠거나 못푼 문제 하나를 선정해 블로그에 정리합니다.<br>
 (정리 형식은 [이 글](https://velog.io/@ysngisyosong/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%9C%EC%9C%84-%EA%B2%80%EC%83%89)을 참고합니다.)<br>
 '문제 이름, 문제 분류, 결과, 회고, 내 코드, (틀렸다면)모범답안'을 정리해서 올립니다.<br>
