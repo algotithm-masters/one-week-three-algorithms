@@ -17,8 +17,8 @@ ex)<br>
 본인이 문제를 풀었던 아이디어를 정리해서 올리고 문제를 틀렸다면 틀린 이유를 찾아서 써주세요.<br>
 문제를 못풀었다면 어떤 부분에서 막혀서 못풀었는지 적고 모범풀이를 이해한 만큼 설명해주세요.<br>
 
-[고예성 알고리즘 회고 링크](https://velog.io/@ysngisyosong/posts)
-[안성욱 알고리즘 회고 링크]()
+[고예성 알고리즘 회고 링크](https://velog.io/@ysngisyosong/posts)<br>
+[안성욱 알고리즘 회고 링크]()<br>
 
 ## 플랫폼 링크 모음
 [백준](https://www.acmicpc.net)<br>
