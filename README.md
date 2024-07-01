@@ -1,7 +1,14 @@
 # one-week-three-algorithms
 일주일 동안 알고리즘 문제를 꾸준히 푸는 것을 목표로 합니다.<br>
-문제의 난이도는 백준 기준 실버4 ~ 골드1 사이로 합니다.<br>
-국내외 상관없이 어떤 플랫폼의 문제를 푸는지는 관계 없습니다!<br>
+문제의 난이도는 백준 실버4 ~ 골드1, 프로그래머스 레벨2~레벨3 사이로 하면 좋겠지만<br>
+엄격하게 제안하지는 않겠습니다. 다만 양을 채우기 위한 문제풀이는 지양합시다~!<br>
+본인에게 도움되는 수준으로 국내외 상관없이 어떤 플랫폼이든 상관 없습니다!<br>
+<br>
+다 푼 문제의 코드는 본인 이름의 폴더, 다시 그 안에서 월별로 분류해서 넣어주세요.<br>
+<br>
+ex)<br>
+고예성 > 7월 > BOJ13144.py, BOJ16987.kt, BOJ1956.java
+안성욱 > 9월 > Prgrms1.py, Prgrms2.cpp, Prgrms3.go
 
 일주일 동안 푼 문제 중 어려웠거나 못푼 문제 하나를 선정해 블로그에 정리합니다.<br>
 (정리 형식은 [이 글](https://velog.io/@ysngisyosong/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%9C%EC%9C%84-%EA%B2%80%EC%83%89)을 참고합니다.)<br>
@@ -9,6 +16,13 @@
 <br>
 본인이 문제를 풀었던 아이디어를 정리해서 올리고 문제를 틀렸다면 틀린 이유를 찾아서 써주세요.<br>
 문제를 못풀었다면 어떤 부분에서 막혀서 못풀었는지 적고 모범풀이를 이해한 만큼 설명해주세요.<br>
+
+## 플랫폼 링크 모음
+[백준](https://www.acmicpc.net)<br>
+[프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc)<br>
+[리트코드](https://leetcode.com/)<br>
+[코드포스](https://codeforces.com/)<br>
+
 
 ## 현황
 ### 7월
