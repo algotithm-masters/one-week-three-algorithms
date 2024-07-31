@@ -19,7 +19,7 @@ ex)<br>
 
 [고예성 알고리즘 회고 링크](https://velog.io/@ysngisyosong/posts)<br>
 [안성욱 알고리즘 회고 링크](https://velog.io/@sungwook-an/posts)<br>
-[안성욱 알고리즘 회고 링크]()<br>
+[황성태 알고리즘 회고 링크]()<br>
 
 ## 플랫폼 링크 모음
 [백준](https://www.acmicpc.net)<br>
