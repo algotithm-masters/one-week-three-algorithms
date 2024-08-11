@@ -14,24 +14,24 @@ public class Programmers42627 {
 		Queue<Job> queue = new LinkedList<>(Arrays.asList(jobs));
 		PriorityQueue<Job> priorityQueue = new PriorityQueue<>(Comparator.comparingInt(job -> job.duration));
 
-		int executionTime = 0;
 		int totalTime = 0;
+		int lastStartTime = 0;
 		while (!queue.isEmpty() || !priorityQueue.isEmpty()) {
-			while (!queue.isEmpty() && queue.peek().start <= totalTime) {
+			while (!queue.isEmpty() && queue.peek().start <= lastStartTime) {
 				priorityQueue.offer(queue.poll());
 			}
 
 			if (priorityQueue.isEmpty()) {
-				totalTime = queue.peek().start;
+				lastStartTime = queue.peek().start;
 				continue;
 			}
 
 			Job job = priorityQueue.poll();
-			executionTime += totalTime + job.duration - job.start;
-			totalTime += job.duration;
+			totalTime += (lastStartTime - job.start) + job.duration;
+			lastStartTime += job.duration;
 		}
 
-		return executionTime / jobs.length;
+		return totalTime / jobs.length;
 	}
 
 	private static class Job {
