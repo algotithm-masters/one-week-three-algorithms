@@ -1,4 +1,4 @@
-package programmers;
+package programmers_hst;
 /*
 문제 설명
 어느 공원 놀이터에는 시소가 하나 설치되어 있습니다.
