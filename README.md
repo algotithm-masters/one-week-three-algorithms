@@ -20,6 +20,8 @@ ex)<br>
 [고예성 알고리즘 회고 링크](https://velog.io/@ysngisyosong/posts)<br>
 [안성욱 알고리즘 회고 링크](https://velog.io/@sungwook-an/posts)<br>
 [황성태 알고리즘 회고 링크]()<br>
+[조현호 알고리즘 회고 링크](https://velog.io/@joho54/posts)<br>
+
 
 ## 플랫폼 링크 모음
 [백준](https://www.acmicpc.net)<br>
@@ -49,6 +51,7 @@ ex)<br>
 | 안성욱 |  완료  |    완료    |         |         |
 | 황성태 |   X  |    완료    |         |         |
 | 김민성 |  완료  |    완료    |   완료   |         |
+| 조현호 |  X  |    X    |      |         |
 
 ## 참고하면 좋은 책, 사이트
 ### 바킹독 실전 알고리즘
