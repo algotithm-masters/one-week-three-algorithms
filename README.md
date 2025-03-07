@@ -20,7 +20,7 @@ ex)<br>
 [고예성 알고리즘 회고 링크](https://velog.io/@ysngisyosong/posts)<br>
 [안성욱 알고리즘 회고 링크](https://velog.io/@sungwook-an/posts)<br>
 [황성태 알고리즘 회고 링크]()<br>
-[조현호 알고리즘 회고 링크](https://velog.io/@joho54/posts)<br>
+[조현호 알고리즘 회고 링크](https://github.com/joho54/notion-til/blob/main/til/%5BAlgorithm%5D%20Java%20.md)<br>
 
 
 ## 플랫폼 링크 모음
